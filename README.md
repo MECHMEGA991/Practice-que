@@ -1,2 +1,2 @@
-# DSA-with-C
-learning DSA with c
+Some practice que 
+
